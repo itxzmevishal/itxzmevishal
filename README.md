@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itxzmevishal&" alt="itxzmevishal" /></p>
 
 <!-- 🎮 GAME SECTION ADDED -->
-<h2 align="center">🎮 My Contribution Game</h2>
+<h2 align="center">My Contribution</h2>
 
 <p align="center">
   <img src="https://github.com/itxzmevishal/itxzmevishal/blob/main/game.gif" />
